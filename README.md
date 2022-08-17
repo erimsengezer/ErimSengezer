@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://erimsengezer.github.io/Me.io/" target="blank">
-Sengezer</a></h1>
+<h1 align="center">Hi 👋, I'm Erim Sengezer.</h1>
 <h3 align="center">A passionate Mobile App developer from Turkey. 🇹🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erimsengezer&label=Profile%20views&color=0e75b6&style=flat" alt="erimsengezer" /> </p>
