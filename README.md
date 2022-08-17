@@ -18,6 +18,11 @@
 - 🌱 I’m currently learning Swift && SwiftUI
 
 - 📫 How to reach me **erimsengezer@gmail.com**
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erimsengezer&theme=great-gatsby&layout=compact)](https://github.com/erimsengezer)
+
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
