@@ -10,6 +10,7 @@
 </a>
 
 - 🔭 I’m currently working in <a href="https://www.appcent.mobi/" target="_blank">Appcent</a>
+- <a href="#" onclick='window.open("https://www.linkedin.com/in/erimsengezer/");return false;'>LinkedIn</a>
 
 - 🌱 I’m currently Working on Mobile App(Swift)
 
