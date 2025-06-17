@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erimsengezer&label=Profile%20views&color=0e75b6&style=flat" alt="erimsengezer" /> </p>
 
-<p align="left"> <a href="https://twitter.com/erimsengezer" target="blank"><img src="https://img.shields.io/twitter/follow/erimsengezer?logo=twitter&style=for-the-badge" alt="erimsengezer" /></a> </p>
+<p align="left"> <a href="https://x.com/erimdev" target="blank"><img src="https://img.shields.io/twitter/follow/erimsengezer?logo=twitter&style=for-the-badge" alt="erimsengezer" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I’m currently working in <a target="_blank" href="https://itsmoneo.com/">Moneo</a>
-
 - 🌱 I’m currently Working on Mobile App(Swift)
+- 🌱 I’m currently Working on Mobile App(React Native)
 
 - 🤝 I’m available for freelancing.
 
@@ -37,7 +37,7 @@
                 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/erimsengezer">
             <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/erimsengezer">
+        <a style="margin-left: 10px;" target="_blank" href="https://x.com/erimdev">
             <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
 
